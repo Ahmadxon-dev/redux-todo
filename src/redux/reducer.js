@@ -20,12 +20,7 @@ const reducer =(state=initialState, action)=>{
             newsLoadingStatus: 'error'
         }
         case "NEWS_DELETE":
-            const fl =state.news.filter(element=>element.id!==action.payload)
-            const newArray = [...state.news]
-            return {
-            ...state,
-            news: fl
-        }
+            return state.news.filter(element=>element.id!==action.payload)
         default:return state
     }
 }
