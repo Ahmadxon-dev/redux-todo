@@ -15,9 +15,16 @@ export const newsFetchingError = ()=> {
 }
 
 export const newsDelete = (id)=>{
-    console.log(id)
+    // console.log(id)
     return{
         type:'NEWS_DELETE',
         payload:id
+    }
+}
+
+export const addNew = (data)=>{
+    return{
+        type:"ADD_NEW",
+        payload:data
     }
 }

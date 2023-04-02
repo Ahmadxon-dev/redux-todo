@@ -12,7 +12,7 @@ const NewsList = () => {
     const {request} = useHttp()
     useEffect(()=>{
         dispatch(newsFetching())
-        request('http://localhost:3001/news')
+        request('http://localhost:3001/news', 'get')
             .then(data=> dispatch(newsFetched(data)))
             .catch(()=>dispatch(newsFetchingError()))
     },[])

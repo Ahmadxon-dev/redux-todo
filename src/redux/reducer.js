@@ -24,6 +24,19 @@ const reducer =(state=initialState, action)=>{
                 ...state,
                 news: state.news.filter(element=>element.id!==action.payload)
             }
+        case "ADD_NEW":
+            const {id,name,description,category} = action.payload
+            const newData = {
+                id,
+                name,
+                description,
+                category
+            }
+            return{
+                ...state,
+                news:[...state.news, newData]
+
+            }
         default:return state
     }
 }

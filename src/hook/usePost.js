@@ -1,7 +1,7 @@
 import {useCallback} from "react"
 import axios from "axios";
-export default function useHttp() {
-    const request = useCallback(async (url, method = "get", body = null, headers = {"Content-type": "application/json"}) => {
+export default function usePost() {
+    const request = useCallback(async (url, data, body = null, headers = {"Content-type": "application/json"}) => {
         try{
             // fetch method
             // const response = await fetch(url, {method,body,headers})
@@ -9,7 +9,7 @@ export default function useHttp() {
             // return data
 
             // axios method
-            const response= await axios({url,method}).then(data=>data.data)
+            const response= await axios.post(url, data).then(data=>data.data)
             return response
 
         }catch (e) {

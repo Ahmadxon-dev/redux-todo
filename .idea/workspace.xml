@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a2d4fc4-dcad-4cf4-b670-370e7923907b" name="Default Changelist" comment="" />
+    <list default="true" id="9a2d4fc4-dcad-4cf4-b670-370e7923907b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/hook/useDelete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hook/usePost.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NewsAddForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewsAddForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NewsList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewsList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NewsListItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewsListItem.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hook/useHttp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hook/useHttp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducer.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2NmS95fuLEnw1GP0f8D859RiRrX" />
   <component name="ProjectViewState">
@@ -40,14 +57,32 @@
       <workItem from="1680336371617" duration="15000" />
       <workItem from="1680336620812" duration="2000" />
       <workItem from="1680363426432" duration="11518000" />
-      <workItem from="1680413297030" duration="8701000" />
+      <workItem from="1680413297030" duration="9273000" />
+      <workItem from="1680458894429" duration="15000" />
+      <workItem from="1680458947333" duration="32000" />
+      <workItem from="1680458989686" duration="307000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="161" key="#Plugins" timestamp="1680458976922">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="161" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1680458976922" />
     <state x="725" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1680420819910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

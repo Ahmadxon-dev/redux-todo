@@ -1,29 +1,40 @@
 {
   "news": [
     {
-      "id": 1,
-      "name": "The deadly legacy of landmines",
-      "description": "Landmines, which can be produced for as little as $1, do not distinguish between combatants and civilians. Their use violates international human rights and humanitarian laws.",
+      "id": "3bda8076-f691-4acc-a02b-f0a465aa4288",
+      "name": "Ahmadxon Abdullayev",
+      "description": "vggvvgvgvg",
+      "category": "Sport News"
+    },
+    {
+      "id": "b4146fd8-ab12-4058-8d4a-1f83a28290eb",
+      "name": "Turkey versus nato",
+      "description": "this is about turkey and nato attitude to each other",
       "category": "Hot News"
     },
     {
-      "id": 2,
-      "name": "sddssddsds",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
-      "category": "Sport News"
-    },{
-      "id": 3,
-      "name": "'W's parliament ratifies Finland's membership",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+      "id": "d80ab05d-4e6c-4eb2-9b19-01828667d168",
+      "name": "russia and ukrainjnbhfbgdfgvgfvdgv",
+      "description": "gvfdvfhfhbvhbfvhbkfdbhdbchff",
+      "category": ""
+    },
+    {
+      "id": "62378db3-308d-4169-af15-4b096cc06ee1",
+      "name": "Sport new",
+      "description": "This is about sport and it is so astonishingly interesting",
       "category": "Sport News"
     },
     {
-      "id": 4,
-      "name": "sddssddsds",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+      "id": "b825abc2-0963-4b45-a749-63158f671e75",
+      "name": "World new",
+      "description": "This is about World and it is s=very interesting",
       "category": "World News"
     }
   ],
-  "filters": ["all", "sport","hot","world"]
-
+  "filters": [
+    "all",
+    "sport",
+    "hot",
+    "world"
+  ]
 }
