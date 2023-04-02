@@ -28,7 +28,7 @@ const NewsList = () => {
             return <h4>News doesn't exist</h4>
         }
         return arr.map(({id,...props})=>{
-            return <NewsListItem key={id} {...props} />
+            return <NewsListItem key={id} {...props} id={id} />
         })
     }
     const element = renderNewsList(news)

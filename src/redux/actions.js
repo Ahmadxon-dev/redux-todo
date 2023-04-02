@@ -15,6 +15,7 @@ export const newsFetchingError = ()=> {
 }
 
 export const newsDelete = (id)=>{
+    console.log(id)
     return{
         type:'NEWS_DELETE',
         payload:id
