@@ -1,0 +1,29 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "name": "The deadly legacy of landmines",
+      "description": "Landmines, which can be produced for as little as $1, do not distinguish between combatants and civilians. Their use violates international human rights and humanitarian laws.",
+      "category": "Hot News"
+    },
+    {
+      "id": 2,
+      "name": "sddssddsds",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+      "category": "Sport News"
+    },{
+      "id": 3,
+      "name": "'W's parliament ratifies Finland's membership",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+      "category": "Sport News"
+    },
+    {
+      "id": 4,
+      "name": "sddssddsds",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+      "category": "World News"
+    }
+  ],
+  "filters": ["all", "sport","hot","world"]
+
+}
